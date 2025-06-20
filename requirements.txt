@@ -11,3 +11,8 @@ wavio==0.0.4
 numpy==1.24.4
 SpeechRecognition==3.8.1
 sounddevice>=0.4.6  # Changed from 0.4.8 for Python 3.11+ compatibility
+setuptools>=70.0.0
+rich>=10.14.0
+markdown-it-py>=2.2.0
+pygments>=2.13.0
+mdurl>=0.1.0
