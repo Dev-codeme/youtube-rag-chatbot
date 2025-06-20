@@ -1,0 +1,9 @@
+streamlit>=1.28.0
+google-generativeai>=0.3.0
+pinecone>=4.0.0
+yt-dlp>=2023.10.13
+youtube-transcript-api>=0.6.1
+sentence-transformers>=2.2.2
+tiktoken>=0.5.1
+python-dotenv>=1.0.0
+ffmpeg-python>=0.2.0
