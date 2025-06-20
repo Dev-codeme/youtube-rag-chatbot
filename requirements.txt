@@ -7,3 +7,7 @@ sentence-transformers>=2.2.2
 tiktoken>=0.5.1
 python-dotenv>=1.0.0
 ffmpeg-python>=0.2.0
+wavio==0.0.4
+numpy==1.25.2
+SpeechRecognition==3.8.1
+sounddevice==0.4.8
